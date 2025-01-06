@@ -1,0 +1,46 @@
+img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .carousel__controls {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+    margin: 16px 0px 16px;
+  }
+  .carousel__button {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    border:solid 1px ; 
+    border-radius: 50%; 
+
+  }
+  .carousel__button--prev {
+    transform: rotate(180deg);
+    z-index: -1;
+  }
+  
+  .carousel__container {
+    width: 100%;
+    display: flex; 
+    gap: 16px; 
+    overflow-x: scroll;
+    margin: 0 -24px;
+    scroll-snap-type: x mandatory; 
+  }
+  
+  .carousel__item { 
+    margin-left: 12px;
+    flex: 0 0 80%;
+    scroll-snap-align: center; 
+  }
+  
+  .carousel__item .card {
+    display: block;
+    
+  }

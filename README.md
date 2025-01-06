@@ -3,8 +3,8 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
+- NOM :LANDWERLIN
+- PRÉNOM :VICTOR
+- GROUPE :B2
 - URL du site :
 - URL FIGMA :

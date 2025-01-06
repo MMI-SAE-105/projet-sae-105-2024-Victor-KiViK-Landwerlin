@@ -1,0 +1,66 @@
+.accueil{
+    display: grid;
+    padding: 24px;
+    justify-content: center;
+}
+.accueil__pres{
+    display: flex;
+    justify-content: center;
+}
+.pres__text{
+    text-align: center;
+    font-family: var(--texte);
+    font-size: var(--body);
+    color: var(--noir);
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+.accueil__btn{
+    display: flex;
+    justify-content: center;
+    border: solid 2px var(--rose);
+    width: 150px;
+    height: 50px;
+}
+.btn__text{
+    font-family: var(--texte);
+    font-size: var(--body);
+    color: var(--noir);
+    margin-top: 16px;
+}
+.accueil__rond{
+    background-color: var(--bleu);
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.titre4{
+    font-family: var(--titre-2);
+    font-size: var(--h4);
+    color: var(--noir);
+    text-align: center;
+}
+.accueil__carre{
+    z-index: -1;
+    width: 150px;
+    height: 150px;
+    rotate: 45deg;
+    background-color: var(--rose);
+    position: absolute;
+    right: 0;
+}
+.accueil__citation{
+    padding: 100px 24px 50px 24px; ;
+    font-family: var(--titre);
+    font-size: var(--citation);
+    color: var(--noir);
+    text-align: center;
+}
+.citation__legende{
+    font-family: var(--texte);
+    font-size: var(--body);
+    color: var(--noir);
+    text-align: left;
+}

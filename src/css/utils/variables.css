@@ -1,0 +1,23 @@
+:root {
+  /* color */
+  --blanc: #ffffff;
+  --bleu: #add8e6;
+  --noir: #000000;
+  --orange: #ffdab9;
+  --rose: #ff69b4;
+  --vert: #b0f2b6;
+
+  --h1: 32px;
+  --h2: 32px;
+  --h3: 24px;
+  --h4: 16px;
+  --body: 14px;
+  --body-2: 11px;
+  --body-3: 16px;
+  --petit-texte: 10px;
+  --citation: 24px;
+
+  --texte: Inter;
+  --titre: Covered By Your Grace;
+  --titre-2: Klee One;
+}

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Klee+One&display=swap');
+
+@import "vendors/normalize.css";
+
+/* Utils */
+@import "utils/variables.css";
+
+/* Base */
+@import "base/main.css";
+@import "base/media.css";
+
+/* Layout */
+@import "layout/header.css";
+@import "layout/footer.css";
+
+/* Components */
+@import "components/menu.css";
+@import "components/hero.css";
+@import "components/accueil.css";
+@import "components/card.css";
+@import "components/galerie.css";
+@import "components/carousel.css";
+@import "components/contact.css";

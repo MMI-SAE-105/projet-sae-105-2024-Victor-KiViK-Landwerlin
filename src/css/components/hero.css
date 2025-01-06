@@ -1,0 +1,20 @@
+.hero{
+    height: 300px;
+}
+.hero__img {
+    width: 100%;
+    margin-top: 80px;
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    opacity: 30%;
+  }
+.hero__text{
+    font-family: var(--titre-2);
+    font-size: var(--h2);
+    color: black;
+    line-height: 3;
+    margin-top: 200px;
+    margin-bottom: 95px;
+    padding: 0 32px 0 32px;
+}  

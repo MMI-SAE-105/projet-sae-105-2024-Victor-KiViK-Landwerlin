@@ -1,0 +1,24 @@
+.header{
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    backdrop-filter: blur(10px);
+    top: 0%;
+    width: 100%;
+}
+.header__title{
+    font-size: var(--h1);
+    font-family: var(--titre);
+    font-weight: 400;
+    color: black;
+    margin-left: 2rem;
+}
+.header__button{
+    display:flex;
+    gap: 10px;
+}
+.iconelang{
+    margin-top:20px ;
+    width: 32px;
+    height: 32px;
+}
