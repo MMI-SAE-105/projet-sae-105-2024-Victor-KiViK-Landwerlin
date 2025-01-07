@@ -2,7 +2,6 @@ img {
     max-width: 100%;
     height: auto;
   }
-
   .carousel__controls {
     display: flex;
     gap: 16px;
@@ -22,7 +21,6 @@ img {
   }
   .carousel__button--prev {
     transform: rotate(180deg);
-    z-index: -1;
   }
   
   .carousel__container {
