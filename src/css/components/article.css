@@ -78,3 +78,7 @@
 .video{
     margin: 24px;
 }
+.projets{
+    font-family: var(--titre);
+    font-size: var(--h1);
+}
