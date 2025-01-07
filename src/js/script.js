@@ -1,6 +1,6 @@
 const toggle = document.querySelector(".menu-btn");
 const nav = document.querySelector(".menu");
-const page = document.body;
+const page = document.querySelector("main");
 
 
 if (toggle && nav) {
