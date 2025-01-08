@@ -6,5 +6,5 @@
 - NOM :LANDWERLIN
 - PRÉNOM :VICTOR
 - GROUPE :B2
-- URL du site : https://superb-sfogliatella-3d7746.netlify.app/
+- URL du site : https://victor-landwerlin-famille-d-hier.netlify.app
 - URL FIGMA : https://www.figma.com/design/byMwd0MlhpzxD9uqS1QG1n/Maquettes-projet-individuel-%E2%80%94-Victor-LANDWERLIN?node-id=4705-163&p=f&t=0iPv9Hd9MVQljDHP-0
